@@ -28,10 +28,10 @@ Cliente
 
 ### Como os dados são carregados?
 Todo acesso e informações necessárias para a agente é feito através do script principal em python.
-Para a limpeza e normalizaçao de dados, foi feito o programa utils.py: assim, apenas os dados relevantes para o escopo de atendimento da Lia sao tratados e encaminhados para as outras automaçoes, e, posteriormente, a propria agente. 
+Para a limpeza e normalização de dados, foi feito o programa utils.py: assim, apenas os dados relevantes para o escopo de atendimento da Lia são tratados e encaminhados para as outras automações, e, posteriormente, à própria agente. 
 
 ### Como os dados são usados no prompt?
-Lia apenas tem contato com alguns dos dados tratados e outros que ela precisa para fornecer os parametros as chamadas de funçao. De resto, apenas o python lida com eles. 
+Lia apenas tem contato com alguns dos dados tratados e outros que ela precisa para fornecer os parametros as chamadas de função. De resto, apenas o python lida com eles. 
 
 ---
 
