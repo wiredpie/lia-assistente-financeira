@@ -5,18 +5,18 @@
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
-Verificação de gastos e tipos de gastos com filtros como "quanto gastei em alimentação nos últimos dois meses utilizando cartão de crédito?" e gastos previstos mensalmente para o cliente ter noçao da media que vem gastando todos os meses. 
-Ela tambem e capaz de sugerir produtos com base no perfil de investidor do cliente e realizar simulaçoes de investimento num periodo de tempo de acordo com as informaçoes que o cliente a fornece como o produto interessado, quanto ele pretende investir e o periodo que o dinheiro ficaria investido.
+Verificação de gastos e tipos de gastos com filtros como "quanto gastei em alimentação nos últimos dois meses utilizando cartão de crédito?" e gastos previstos mensalmente para o cliente ter fácil visualização da média que vem gastando todos os meses. 
+Ela também é capaz de sugerir produtos com base no perfil de investidor do cliente e realizar simulações de investimento num período de tempo de acordo com as informações que o cliente a fornece como o produto interessado, quanto ele pretende investir e o período que o dinheiro ficaria investido.
 
 ### Solução
 > Como o agente resolve esse problema?
 
-Ela acessa as chamadas de funçao com tools, assim, ao interpretar a mensagem do cliente, escolhe qual tool deve utilizar. O python prepara os dados que ela deve informar ao cliente, e com isso, ela formula uma resposta. 
+Ela acessa as chamadas de função com tools, assim, ao interpretar a mensagem do cliente, escolhe qual tool deve utilizar. O python prepara os dados que ela deve informar ao cliente, e com isso, ela formula uma resposta sem ser sobrecarregada com dados desnecessários. 
 
 ### Público-Alvo
 > Quem vai usar esse agente?
 
-Público geral, principalmente quem tem investimentos e deseja ter maior controle financeiro sobre os proprios gastos, pois o agente facilita o acesso do cliente às informações que importam à ele. 
+Público geral, principalmente quem tem investimentos e deseja ter maior controle financeiro sobre os próprios gastos, pois o agente facilita o acesso do cliente às informações que importam à ele. 
 
 ---
 
@@ -37,8 +37,6 @@ Tom acessível e levemente formal, mas sem exageros.
 
 ### Exemplos de Linguagem
 - Saudação padrão: "Olá, espero que esteja bem! Como posso te ajudar hoje?"
-- Saudação na primeira semana do mês: "Olá, espero que esteja bem! Neste mês, a previsão de gastos esperados é de R$ [média de gastos recorrentes mensais] com [categorias de transações recorrentes, separadas por vírgula]. Como posso te ajudar hoje?"
-- Saudação com informe de rendimentos: "Olá, espero que esteja bem! Boas notícias: seus investimentos renderam um total de R$ [soma de rendimentos mensais]. Como posso te ajudar hoje?"
 - Confirmação: "Certo, aguarde um momento por favor."
 - Erro/Limitação com problemas que fogem da capacidade de verificação e análise de dados: "Desculpe-me, mas não posso fazer isso, mas posso redirecioná-lo à um atendente se quiser."
 - Erro/Limitação sobre informações que a IA não tem acesso: "Desculpe-me, mas não tenho essa informação. Posso ajudá-lo com outra coisa?"
@@ -51,7 +49,7 @@ Cliente
    ↓
 Lia interpreta a pergunta
    ↓
-Lia extrai intenção + parâmetros -> chama funçao
+Lia extrai intenção + parâmetros -> chama função
    ↓
 script.py
    ↓
