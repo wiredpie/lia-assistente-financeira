@@ -1,0 +1,60 @@
+{
+  "cliente_id": "CLI-001849",
+  "nome": "João Silva",
+  "cpf_mascarado": "123.***.***-00",
+  "data_nascimento": "1994-05-14",
+  "profissao": "Analista de Sistemas",
+  "empresa": "TechCorp Soluções",
+  "renda_mensal": 5000.00,
+  "score_credito": 745,
+  "status_conta": "Ativa",
+  "perfil_investidor": {
+    "classificacao": "Moderado",
+    "data_suitability": "2025-08-10",
+    "proxima_renovacao": "2027-08-10",
+    "aceita_risco_variavel": false,
+    "tolerancia_perda_maxima_pct": 5.0
+  },
+  "patrimonio": {
+    "total_consolidado": 15000.00,
+    "saldo_conta_corrente": 1205.10,
+    "reserva_emergencia_atual": 10000.00,
+    "reserva_emergencia_meta": 15000.00,
+    "alocacao_atual": {
+      "renda_fixa_pos": 10000.00,
+      "conta_corrente": 1205.10,
+      "fundo_multimercado": 3794.90
+    }
+  },
+  "cartao_credito": {
+    "limite_total": 8000.00,
+    "limite_disponivel": 5800.00,
+    "fatura_atual_valor": 2200.00,
+    "fatura_status": "Aberta",
+    "dia_vencimento": 10,
+    "melhor_dia_compra": 3
+  },
+  "metas_financeiras": [
+    {
+      "id_meta": "META-01",
+      "descricao": "Completar reserva de emergência",
+      "valor_alvo": 15000.00,
+      "valor_atual": 10000.00,
+      "prazo_limite": "2026-06-30",
+      "prioridade": "Alta"
+    },
+    {
+      "id_meta": "META-02",
+      "descricao": "Entrada do apartamento",
+      "valor_alvo": 50000.00,
+      "valor_atual": 3794.90,
+      "prazo_limite": "2027-12-31",
+      "prioridade": "Média"
+    }
+  ],
+  "preferencias_atendimento": {
+    "canal_preferencial": "chat",
+    "tom_voz_preferido": "Direto e didático",
+    "opt_in_ofertas_produtos": true
+  }
+}

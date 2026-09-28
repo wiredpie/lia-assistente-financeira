@@ -1,0 +1,82 @@
+id_transacao,cliente_id,data,descricao,categoria,subcategoria,valor,tipo,metodo_pagamento,status
+TX-1001,CLI-001849,2026-03-01,Salario TechCorp,Renda,Salario,5000.0,Entrada,TED,Concluida
+TX-1009,CLI-001849,2026-03-01,Supermercado Carrefour,Alimentacao,Mercado,282.79,Saida,Debito,Concluida
+TX-1002,CLI-001849,2026-03-02,Pagamento Aluguel,Moradia,Aluguel,1200.0,Saida,Pix,Concluida
+TX-1010,CLI-001849,2026-03-04,Academia SmartFit,Saude,Academia,119.9,Saida,Cartao_Credito,Concluida
+TX-1003,CLI-001849,2026-03-05,Assinatura Netflix,Lazer,Streaming,55.9,Saida,Cartao_Credito,Concluida
+TX-1007,CLI-001849,2026-03-05,Condominio,Moradia,Condominio,450.0,Saida,Boleto,Concluida
+TX-1008,CLI-001849,2026-03-05,Aporte Tesouro Selic,Investimento,Renda_Fixa,400.0,Saida,Pix,Concluida
+TX-1011,CLI-001849,2026-03-06,iFood *Pedido,Alimentacao,Delivery,55.42,Saida,Cartao_Credito,Concluida
+TX-1012,CLI-001849,2026-03-06,Posto Shell,Transporte,Combustivel,185.56,Saida,Cartao_Credito,Concluida
+TX-1013,CLI-001849,2026-03-07,Posto Shell,Transporte,Combustivel,223.78,Saida,Cartao_Credito,Concluida
+TX-1006,CLI-001849,2026-03-08,Internet Fibra,Moradia,Telecom,129.9,Saida,Debito_Automatico,Concluida
+TX-1014,CLI-001849,2026-03-10,Estacionamento Shopping,Transporte,Estacionamento,23.85,Saida,Debito,Concluida
+TX-1004,CLI-001849,2026-03-12,Spotify Brasil,Lazer,Streaming,21.9,Saida,Cartao_Credito,Concluida
+TX-1015,CLI-001849,2026-03-17,Posto Shell,Transporte,Combustivel,202.21,Saida,Cartao_Credito,Concluida
+TX-1017,CLI-001849,2026-03-18,Pão de Açúcar,Alimentacao,Mercado,144.72,Saida,Debito,Concluida
+TX-1018,CLI-001849,2026-03-19,Restaurante Outback,Alimentacao,Restaurante,229.57,Saida,Cartao_Credito,Concluida
+TX-1019,CLI-001849,2026-03-21,Posto Shell,Transporte,Combustivel,192.66,Saida,Cartao_Credito,Concluida
+TX-1022,CLI-001849,2026-03-25,Padaria Real,Alimentacao,Café,29.81,Saida,Pix,Concluida
+TX-1023,CLI-001849,2026-03-25,Pão de Açúcar,Alimentacao,Mercado,190.89,Saida,Debito,Concluida
+TX-1024,CLI-001849,2026-03-25,Steam Games,Lazer,Jogos,101.51,Saida,Cartao_Credito,Concluida
+TX-1053,CLI-001849,2026-03-25,Conta de Agua - Sabesp,Moradia,Agua_Saneamento,85.0,Saida,Debito_Automatico,Concluida
+TX-1025,CLI-001849,2026-03-26,Supermercado Carrefour,Alimentacao,Mercado,488.6,Saida,Debito,Concluida
+TX-1028,CLI-001849,2026-03-28,Conta de Luz - Enel,Moradia,Energia,120.7,Saida,Boleto,Concluida
+TX-1029,CLI-001849,2026-03-29,Padaria Real,Alimentacao,Café,24.72,Saida,Pix,Concluida
+TX-1031,CLI-001849,2026-03-29,Supermercado Carrefour,Alimentacao,Mercado,506.17,Saida,Debito,Concluida
+TX-1032,CLI-001849,2026-04-01,Salario TechCorp,Renda,Salario,5000.0,Entrada,TED,Concluida
+TX-1033,CLI-001849,2026-04-02,Pagamento Aluguel,Moradia,Aluguel,1200.0,Saida,Pix,Concluida
+TX-1034,CLI-001849,2026-04-05,Assinatura Netflix,Lazer,Streaming,55.9,Saida,Cartao_Credito,Concluida
+TX-1038,CLI-001849,2026-04-05,Condominio,Moradia,Condominio,450.0,Saida,Boleto,Concluida
+TX-1039,CLI-001849,2026-04-05,Aporte Tesouro Selic,Investimento,Renda_Fixa,500.0,Saida,Pix,Concluida
+TX-1037,CLI-001849,2026-04-08,Internet Fibra,Moradia,Telecom,129.9,Saida,Debito_Automatico,Concluida
+TX-1035,CLI-001849,2026-04-10,Academia SmartFit,Saude,Academia,119.9,Saida,Cartao_Credito,Concluida
+TX-1036,CLI-001849,2026-04-12,Spotify Brasil,Lazer,Streaming,21.9,Saida,Cartao_Credito,Concluida
+TX-1040,CLI-001849,2026-04-15,Uber *Corrida,Transporte,Aplicativo,32.4,Saida,Cartao_Credito,Concluida
+TX-1054,CLI-001849,2026-04-15,Supermercado Carrefour,Alimentacao,Mercado,450.0,Saida,Debito,Concluida
+TX-1041,CLI-001849,2026-04-20,Drogaria Raia,Saude,Farmacia,94.5,Saida,Debito,Concluida
+TX-1055,CLI-001849,2026-04-25,Conta de Agua - Sabesp,Moradia,Agua_Saneamento,85.0,Saida,Debito_Automatico,Concluida
+TX-1056,CLI-001849,2026-04-28,Conta de Luz - Enel,Moradia,Energia,120.7,Saida,Boleto,Concluida
+TX-1042,CLI-001849,2026-05-01,Salario TechCorp,Renda,Salario,5000.0,Entrada,TED,Concluida
+TX-1043,CLI-001849,2026-05-02,Pagamento Aluguel,Moradia,Aluguel,1200.0,Saida,Pix,Concluida
+TX-1044,CLI-001849,2026-05-05,Aporte Tesouro Selic,Investimento,Renda_Fixa,600.0,Saida,Pix,Concluida
+TX-1057,CLI-001849,2026-05-05,Condominio,Moradia,Condominio,450.0,Saida,Boleto,Concluida
+TX-1058,CLI-001849,2026-05-05,Assinatura Netflix,Lazer,Streaming,55.9,Saida,Cartao_Credito,Concluida
+TX-1059,CLI-001849,2026-05-08,Internet Fibra,Moradia,Telecom,129.9,Saida,Debito_Automatico,Concluida
+TX-1060,CLI-001849,2026-05-10,Academia SmartFit,Saude,Academia,119.9,Saida,Cartao_Credito,Concluida
+TX-1061,CLI-001849,2026-05-12,Spotify Brasil,Lazer,Streaming,21.9,Saida,Cartao_Credito,Concluida
+TX-1062,CLI-001849,2026-05-15,Supermercado Carrefour,Alimentacao,Mercado,450.0,Saida,Debito,Concluida
+TX-1063,CLI-001849,2026-05-25,Conta de Agua - Sabesp,Moradia,Agua_Saneamento,85.0,Saida,Debito_Automatico,Concluida
+TX-1064,CLI-001849,2026-05-28,Conta de Luz - Enel,Moradia,Energia,120.7,Saida,Boleto,Concluida
+TX-1045,CLI-001849,2026-06-01,Salario TechCorp,Renda,Salario,5000.0,Entrada,TED,Concluida
+TX-1046,CLI-001849,2026-06-02,Pagamento Aluguel,Moradia,Aluguel,1200.0,Saida,Pix,Concluida
+TX-1065,CLI-001849,2026-06-05,Condominio,Moradia,Condominio,450.0,Saida,Boleto,Concluida
+TX-1066,CLI-001849,2026-06-05,Assinatura Netflix,Lazer,Streaming,55.9,Saida,Cartao_Credito,Concluida
+TX-1067,CLI-001849,2026-06-08,Internet Fibra,Moradia,Telecom,129.9,Saida,Debito_Automatico,Concluida
+TX-1068,CLI-001849,2026-06-10,Academia SmartFit,Saude,Academia,119.9,Saida,Cartao_Credito,Concluida
+TX-1069,CLI-001849,2026-06-12,Spotify Brasil,Lazer,Streaming,21.9,Saida,Cartao_Credito,Concluida
+TX-1070,CLI-001849,2026-06-15,Supermercado Carrefour,Alimentacao,Mercado,450.0,Saida,Debito,Concluida
+TX-1071,CLI-001849,2026-06-25,Conta de Agua - Sabesp,Moradia,Agua_Saneamento,85.0,Saida,Debito_Automatico,Concluida
+TX-1072,CLI-001849,2026-06-28,Conta de Luz - Enel,Moradia,Energia,120.7,Saida,Boleto,Concluida
+TX-1047,CLI-001849,2026-07-01,Salario TechCorp,Renda,Salario,5000.0,Entrada,TED,Concluida
+TX-1048,CLI-001849,2026-07-02,Pagamento Aluguel,Moradia,Aluguel,1200.0,Saida,Pix,Concluida
+TX-1073,CLI-001849,2026-07-05,Condominio,Moradia,Condominio,450.0,Saida,Boleto,Concluida
+TX-1074,CLI-001849,2026-07-05,Assinatura Netflix,Lazer,Streaming,55.9,Saida,Cartao_Credito,Concluida
+TX-1075,CLI-001849,2026-07-08,Internet Fibra,Moradia,Telecom,129.9,Saida,Debito_Automatico,Concluida
+TX-1076,CLI-001849,2026-07-10,Academia SmartFit,Saude,Academia,119.9,Saida,Cartao_Credito,Concluida
+TX-1077,CLI-001849,2026-07-12,Spotify Brasil,Lazer,Streaming,21.9,Saida,Cartao_Credito,Concluida
+TX-1078,CLI-001849,2026-07-15,Supermercado Carrefour,Alimentacao,Mercado,450.0,Saida,Debito,Concluida
+TX-1079,CLI-001849,2026-07-25,Conta de Agua - Sabesp,Moradia,Agua_Saneamento,85.0,Saida,Debito_Automatico,Concluida
+TX-1080,CLI-001849,2026-07-28,Conta de Luz - Enel,Moradia,Energia,120.7,Saida,Boleto,Concluida
+TX-1049,CLI-001849,2026-08-01,Salario TechCorp,Renda,Salario,5000.0,Entrada,TED,Concluida
+TX-1050,CLI-001849,2026-08-02,Pagamento Aluguel,Moradia,Aluguel,1200.0,Saida,Pix,Concluida
+TX-1081,CLI-001849,2026-08-05,Condominio,Moradia,Condominio,450.0,Saida,Boleto,Concluida
+TX-1082,CLI-001849,2026-08-05,Assinatura Netflix,Lazer,Streaming,55.9,Saida,Cartao_Credito,Concluida
+TX-1083,CLI-001849,2026-08-08,Internet Fibra,Moradia,Telecom,129.9,Saida,Debito_Automatico,Concluida
+TX-1084,CLI-001849,2026-08-10,Academia SmartFit,Saude,Academia,119.9,Saida,Cartao_Credito,Concluida
+TX-1085,CLI-001849,2026-08-12,Spotify Brasil,Lazer,Streaming,21.9,Saida,Cartao_Credito,Concluida
+TX-1086,CLI-001849,2026-08-15,Supermercado Carrefour,Alimentacao,Mercado,450.0,Saida,Debito,Concluida
+TX-1087,CLI-001849,2026-08-25,Conta de Agua - Sabesp,Moradia,Agua_Saneamento,85.0,Saida,Debito_Automatico,Concluida
+TX-1088,CLI-001849,2026-08-28,Conta de Luz - Enel,Moradia,Energia,120.7,Saida,Boleto,Concluida
+TX-1051,CLI-001849,2026-08-29,Drogaria Raia,Saude,Farmacia,63.27,Saida,Debito,Concluida
+TX-1052,CLI-001849,2026-08-30,Padaria Real,Alimentacao,Café,24.71,Saida,Pix,Concluida

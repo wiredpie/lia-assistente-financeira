@@ -1,0 +1,70 @@
+[
+  {
+    "produto_id": "PROD-RF-001",
+    "nome": "Tesouro Selic 2029",
+    "categoria": "Renda Fixa Público",
+    "risco": "Baixo",
+    "rentabilidade": "100% da Taxa Selic + 0.05%",
+    "liquidez": "D+1",
+    "resgate_minimo": 30.00,
+    "garantia_fgc": false,
+    "tributacao": "Tabela Regressiva de IR",
+    "indicado_para": "Reserva de emergência e metas de curto prazo.",
+    "elegivel_perfil": ["Conservador", "Moderado", "Arrojado"]
+  },
+  {
+    "produto_id": "PROD-RF-002",
+    "nome": "CDB Liquidez Diária Banco Alpha",
+    "categoria": "Renda Fixa Privada",
+    "risco": "Baixo",
+    "rentabilidade": "102% do CDI",
+    "liquidez": "Imediata (D+0)",
+    "resgate_minimo": 100.00,
+    "garantia_fgc": true,
+    "tributacao": "Tabela Regressiva de IR",
+    "indicado_para": "Uso como reserva de liquidez rápida com rentabilidade acima da poupança.",
+    "elegivel_perfil": ["Conservador", "Moderado", "Arrojado"]
+  },
+  {
+    "produto_id": "PROD-RF-003",
+    "nome": "LCI/LCA Imobiliário 90 Dias",
+    "categoria": "Renda Fixa Isenta",
+    "risco": "Baixo",
+    "rentabilidade": "95% do CDI",
+    "liquidez": "D+90 (Carência de 90 dias)",
+    "resgate_minimo": 1000.00,
+    "garantia_fgc": true,
+    "tributacao": "Isento de Imposto de Renda para PF",
+    "indicado_para": "Investimentos de curto/médio prazo onde o capital não será movimentado em 3 meses.",
+    "elegivel_perfil": ["Conservador", "Moderado", "Arrojado"]
+  },
+  {
+    "produto_id": "PROD-FND-001",
+    "nome": "Fundo Multi-Asset Macro",
+    "categoria": "Multimercado",
+    "risco": "Médio",
+    "rentabilidade_historica_12m": "13.4%",
+    "taxa_administracao": "1.0% a.a.",
+    "taxa_performance": "20% do que exceder 100% do CDI",
+    "liquidez": "D+30",
+    "resgate_minimo": 500.00,
+    "garantia_fgc": false,
+    "tributacao": "Come-cotas semestral + tabela regressiva",
+    "indicado_para": "Diversificação de portfólio para perfil moderado buscando superação do CDI.",
+    "elegivel_perfil": ["Moderado", "Arrojado"]
+  },
+  {
+    "produto_id": "PROD-EQ-001",
+    "nome": "Fundo Ações Brasil Index FIA",
+    "categoria": "Renda Variável",
+    "risco": "Alto",
+    "rentabilidade_historica_12m": "18.2%",
+    "taxa_administracao": "1.5% a.a.",
+    "liquidez": "D+15",
+    "resgate_minimo": 100.00,
+    "garantia_fgc": false,
+    "tributacao": "15% de IR no resgate",
+    "indicado_para": "Crescimento de patrimônio no longo prazo para investidores arrojados.",
+    "elegivel_perfil": ["Arrojado"]
+  }
+]

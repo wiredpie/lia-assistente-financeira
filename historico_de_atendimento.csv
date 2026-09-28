@@ -1,0 +1,7 @@
+id_atendimento,cliente_id,data_hora,canal,protocolo,tema,subtema,resumo_atendimento,sentimento_cliente,status_resolucao,atendente
+ATT-1001,CLI-001849,2025-09-15 10:14:22,chat,PROT-20250915-01,Investimentos,CDB,Cliente questionou a diferença entre liquidez diária e carência no CDB 102% CDI. Explicado o funcionamento e prazos de resgate.,Neutro,Resolvido,Atendente_Bot
+ATT-1002,CLI-001849,2025-09-22 16:05:01,telefone,PROT-20250922-09,Suporte Tecnico,App Bloqueado,Relatou erro visual na aba de extratos após atualização. Foi orientado a limpar o cache do app. Bug corrigido.,Frustrado,Resolvido,Atendente_Humano
+ATT-1003,CLI-001849,2025-10-01 11:30:10,chat,PROT-20251001-04,Investimentos,Tesouro Selic,Cliente solicitou comparação técnica entre Tesouro Selic e CDB de liquidez diária para alocação de reserva.,Satisfeito,Resolvido,Atendente_Bot
+ATT-1004,CLI-001849,2025-10-12 14:20:00,chat,PROT-20251012-02,Planejamento,Reserva Emergencia,Dúvida sobre a porcentagem atingida em relação à meta de R$ 15000.00. Informado que está em 66.6%.,Satisfeito,Resolvido,Atendente_Bot
+ATT-1005,CLI-001849,2025-10-25 09:00:12,email,PROT-20251025-07,Cadastro,Dados Pessoais,Solicitação de alteração do número de telefone celular e e-mail de contato principal. Dados atualizados.,Neutro,Resolvido,Atendente_Humano
+ATT-1006,CLI-001849,2025-11-03 15:45:30,chat,PROT-20251103-03,Cartao de Credito,Aumento de Limite,Solicitou aumento de limite no cartão. Explicado que a análise de crédito é automática e sugerido manter compras concentradas no cartão.,Neutro,Pendente_Analise,Atendente_Bot
