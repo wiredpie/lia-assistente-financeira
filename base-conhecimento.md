@@ -37,11 +37,11 @@ Lia apenas tem contato com alguns dos dados tratados e outros que ela precisa pa
 
 ## Exemplo de Contexto Montado
 
-- Informações básicas sobre o cliente 
+- Informações básicas sobre o cliente:  
     Nome, renda mensal, status da conta
-- Perfil investidor
+- Perfil investidor: 
     Moderado, não aceita risco variado
-- Histórico de atendimento 
+- Histórico de atendimento:  
     Informações sobre histórico de atendimento
-- Produtos financeiros adquiridos 
+- Produtos financeiros adquiridos:  
     Produtos onde seu dinheiro está investido
