@@ -1,4 +1,3 @@
-"""Orquestração local da Lia. Execute: streamlit run script.py."""
 from __future__ import annotations
 
 from datetime import datetime
